@@ -57,9 +57,9 @@
     <printMapping>false</printMapping>
 
     <!-- leave empty to use default packaged definition -->
-    <facetConceptsFile>/Users/vic/Documents/DI/projects/VLO-mapping/mapping/facetConcepts.xml</facetConceptsFile>
+    <facetConceptsFile>/Users/vic/Documents/DI/projects/VLO/VLO-mapping/mapping/facetConcepts.xml</facetConceptsFile>
     
-    <facetsConfigFile>/Users/vic/Documents/DI/projects/VLO-mapping/config/facetsConfiguration.xml</facetsConfigFile>
+    <facetsConfigFile>/Users/vic/Documents/DI/projects/VLO/VLO-mapping/config/facetsConfiguration.xml</facetsConfigFile>
 
     <profileSchemaUrl>https://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/1.x/profiles/{PROFILE_ID}/xsd</profileSchemaUrl>
 
@@ -74,17 +74,17 @@
     <!-- Mapping file locations. These can be an absolute URL, absolute file 
     path or packaged resource location. Evaluated in the this order. -->
 
-    <organisationNamesUrl>/Users/vic/Documents/DI/projects/VLO-mapping/uniform-maps/OrganisationControlledVocabulary.xml</organisationNamesUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/OrganisationControlledVocabulary.xml -->
+    <organisationNamesUrl>/Users/vic/Documents/DI/projects/VLO/VLO-mapping/uniform-maps/OrganisationControlledVocabulary.xml</organisationNamesUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/OrganisationControlledVocabulary.xml -->
 
-    <languageNameVariantsUrl>/Users/vic/Documents/DI/projects/VLO-mapping/uniform-maps/LanguageNameVariantsMap.xml</languageNameVariantsUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/LanguageNameVariantsMap.xml -->
+    <languageNameVariantsUrl>/Users/vic/Documents/DI/projects/VLO/VLO-mapping/uniform-maps/LanguageNameVariantsMap.xml</languageNameVariantsUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/LanguageNameVariantsMap.xml -->
 
-    <licenseAvailabilityMapUrl>/Users/vic/Documents/DI/projects/VLO-mapping/uniform-maps/LicenseAvailabilityMap.xml</licenseAvailabilityMapUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/LicenseAvailabilityMap.xml -->
+    <licenseAvailabilityMapUrl>/Users/vic/Documents/DI/projects/VLO/VLO-mapping/uniform-maps/LicenseAvailabilityMap.xml</licenseAvailabilityMapUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/LicenseAvailabilityMap.xml -->
 
-    <licenseURIMapUrl>/Users/vic/Documents/DI/projects/VLO-mapping/uniform-maps/LicenseURIMap.xml</licenseURIMapUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/LicenseURIMap.xml -->
+    <licenseURIMapUrl>/Users/vic/Documents/DI/projects/VLO/VLO-mapping/uniform-maps/LicenseURIMap.xml</licenseURIMapUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/LicenseURIMap.xml -->
 
-    <licenseTypeMapUrl>/Users/vic/Documents/DI/projects/VLO-mapping/uniform-maps/LicenseTypeMap.xml</licenseTypeMapUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/LicenseTypeMap.xml -->
+    <licenseTypeMapUrl>/Users/vic/Documents/DI/projects/VLO/VLO-mapping/uniform-maps/LicenseTypeMap.xml</licenseTypeMapUrl> <!-- bundled resource: /vlo-mapping/uniform-maps/LicenseTypeMap.xml -->
 
-    <valueMappingsFile>/Users/vic/Documents/DI/projects/VLO-mapping/value-maps/dist/master.xml</valueMappingsFile> <!-- bundled resource: /value-maps/dist/master.xml -->
+    <valueMappingsFile>/Users/vic/Documents/DI/projects/VLO/VLO-mapping/value-maps/dist/master.xml</valueMappingsFile> <!-- bundled resource: /value-maps/dist/master.xml -->
 
     <fields>
         <field key="NAME">name</field>
