@@ -232,8 +232,10 @@
     </facet>
 
     <facet name="cLp_fair_a1_1">
-        <displayAs>clpFAIRField</displayAs>
-        <allowMultipleValues>true</allowMultipleValues>
+        <displayAs>primaryFacet</displayAs>
+        <displayAs>ignoredField</displayAs>
+        <description>FAIR Principle A1.1: The protocol is open, free and universally implementable</description>
+        <definition>Selflinks must start with HTTPS protocol.</definition>
     </facet>
 
     <facet name="metadataSource">
